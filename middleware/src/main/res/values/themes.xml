@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="BaseAppTheme.Light" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="base_main_color">@color/main_bg_color_light</item>
+        <item name="base_title_color">@color/toolbar_color_light</item>
+        <item name="base_text_color">@color/main_text_color_light</item>
+    </style>
+
+    <style name="BaseAppTheme.Dark" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="base_main_color">@color/main_bg_color_dark</item>
+        <item name="base_title_color">@color/toolbar_color_dark</item>
+        <item name="base_text_color">@color/main_text_color_dark</item>
+
+    </style>
+</resources>

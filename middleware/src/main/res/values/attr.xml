@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="base_main_color" format="color" />
+    <attr name="base_title_color" format="color" />
+    <attr name="base_text_color" format="color" />
+</resources>
